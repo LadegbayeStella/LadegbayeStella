@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20developer%20;1+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd-%20developer%20;1%2B%20year%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -33,14 +33,6 @@ I'm a student of Adroitsofware Computer bootCamp, i am also an React enthusiast 
 | ---------- | ----------- |
  | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LadegbayeStella&show_icons=true&theme=radical" alt="DevStella" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadegbayeStella&show_icons=true&theme=radical&layout=compact" alt="DevStella" width="410"/>|
 </p><br>
-
----
-
-### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-[![Nicholas](https://github-readme-stats.vercel.app/api/wakatime?username=TechieEmma&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### Github activity 🚀
 
