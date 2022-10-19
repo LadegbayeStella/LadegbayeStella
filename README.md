@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Adroitsoftware ogba bootcamp)
+![](https://img.shields.io/badge/Adroitsoftware-ogba-bootcamp)
 ![Profile views](https://gpvc.arturio.dev/LadegbayeStella) 
 
 <h1 align="center">Hi 👋, I'm Stella Ladegbaye</h1>
