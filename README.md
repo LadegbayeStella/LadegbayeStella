@@ -40,7 +40,6 @@ I'm a student of Adroitsofware Computer bootCamp, i am also an React enthusiast 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DevStella Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LadegbayeStella&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
 
 ---
