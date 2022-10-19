@@ -13,15 +13,15 @@
   </a>
 </p>
 
-### I am Full Stack software developer
-Hi, I'm [Nicholas Emmanuel](https://NickEmma.me/), a full stack web developer and a software developer.
+### I am FrontEnd developer
+Hi, I'm [Stella Ladegbaye](https://LadegbayeStella.me/), a frontend web developer and a software developer.
 
-I'm a student of Microverse, i am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
+I'm a student of Adroitsofware Computer bootCamp, i am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
 
 
-<p align="left"> <img src="https://github.com/nickemma/nickemma/blob/main/google.gif" alt="nickemma" /> </p>
+<p align="left"> <img src="https://github.com/LadegbayeStella/LadegbayeStella/blob/main/google.gif" alt="DevStella" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickemma" alt="nickemma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LadegbayeStella" alt="DevStella" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -31,7 +31,7 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
  
 | Statistics |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NickEmma&show_icons=true&theme=radical" alt="Techie Emma" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&show_icons=true&theme=radical&layout=compact" alt="Techie Emma" width="410"/>|
+ | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LadegbayeStella&show_icons=true&theme=radical" alt="DevStella" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LadegbayeStella&show_icons=true&theme=radical&layout=compact" alt="DevStella" width="410"/>|
 </p><br>
 
 ---
@@ -45,7 +45,7 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
 ### Github activity 🚀
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Techie Emma's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=NickEmma&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DevStella Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LadegbayeStella&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
