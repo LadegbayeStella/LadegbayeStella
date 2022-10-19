@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-![Profile views](https://gpvc.arturio.dev/NickEmma) 
+![](https://img.shields.io/badge/Adroitsoftware)
+![Profile views](https://gpvc.arturio.dev/LadegbayeStella) 
 
 <h1 align="center">Hi 👋, I'm Stella Ladegbaye</h1>
 
