@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Adroitsoftware-ogba-bootcamp)
 ![Profile views](https://gpvc.arturio.dev/LadegbayeStella) 
 
-<h1 align="center">Hi 👋, I'm Stella Ladegbaye</h1>
+<h1 align="center">Hi 👋, I'm Stella Ladegbaye Ewatomi</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
