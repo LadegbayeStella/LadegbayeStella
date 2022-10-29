@@ -16,7 +16,7 @@
 ### I am FrontEnd developer
 Hi, I'm [Stella Ladegbaye](https://LadegbayeStella.me/), a frontend web developer and a software developer.
 
-I'm a student of Adroitsofware Computer bootCamp, i am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
+I'm a student i am also a javascript enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
 
 
 <p align="left"> <img src="https://github.com/LadegbayeStella/LadegbayeStella/blob/main/google.gif" alt="DevStella" /> </p>
